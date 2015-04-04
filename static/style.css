@@ -67,7 +67,6 @@ footer p {
 .btn {
     display: inline-block;
     width: 250px;
-    height: 35px;
     border: 2px solid rgba(33, 68, 72, 0.59);
   background: #2f5f63;
     background: -webkit-linear-gradient(top, #34696f, #2f5f63);
