@@ -1,8 +1,14 @@
 CACHE MANIFEST
 # 2012-02-21 v1.0.0
+CACHE:
 index.html
 static/style.css
 static/Toilet.mp3
+static/Bachelor.mp3
+static/Bhaag Jaun Gi.mp3
+static/Cup of Tea.mp3
+static/Forget About Mullahs.mp3
+static/Get Some Sleep.mp3
 
 NETWORK:
 login.asp
