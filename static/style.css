@@ -74,6 +74,7 @@ footer p {
     background: -o-linear-gradient(top, #34696f, #2f5f63);
     background: -ms-linear-gradient(top, #34696f, #2f5f63);
     background: linear-gradient(top, #34696f, #2f5f63);
+    -webkit-background-size:100%;
      
     -webkit-border-radius: 50px;
     -khtml-border-radius: 50px;
@@ -91,9 +92,9 @@ footer p {
   color: rgba(0, 0, 0, 0.55);
   font-weight: bold;
   font-size: 32px;
-  padding: 10px 25px 15px 25px;
+  padding: 5px 25px 15px 25px;
   text-decoration: none;
-  margin: 0 50px 0 50px;
+  margin: 0 50px 0 50pxx;
 }
 
 .btn:hover {
