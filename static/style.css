@@ -92,7 +92,7 @@ footer p {
   color: rgba(0, 0, 0, 0.55);
   font-weight: bold;
   font-size: 26px;
-  padding: 25px 25px 15px 25px;
+  padding: 25px 0px 25px 0px;
   text-decoration: none;
   margin: 0 50px 0 50px;
 }
